@@ -1,0 +1,25 @@
+form {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    color: #ccc;
+    height: 250px;
+}
+
+form input {
+    margin-bottom: 20px;
+    padding: 5px;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid #f007;
+    border-radius: 5px;
+    background-color: azure;
+}
+
+form button {
+    padding: 5px;
+    outline: none;
+    background-color: aquamarine;
+}
